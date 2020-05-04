@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Email {
 
-    // 邮件主题
+    // 邮件主题 // et1910用户修改
     private String subject;
     
     // 收件人 - 注册时填写的邮箱地址

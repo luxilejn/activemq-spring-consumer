@@ -4,11 +4,14 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * 邮件实体类
+ */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class Email {
-    
+
     // 邮件主题
     private String subject;
     

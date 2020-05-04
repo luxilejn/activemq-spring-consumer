@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
  * 邮件实体类 et1910 et用户
  * et1910 et用户
  * et1910
+ * et用户
  */
 @Data
 @NoArgsConstructor

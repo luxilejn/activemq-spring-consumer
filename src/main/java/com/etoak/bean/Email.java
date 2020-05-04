@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * 邮件实体类
+ * 邮件实体类 et1910
  */
 @Data
 @NoArgsConstructor
